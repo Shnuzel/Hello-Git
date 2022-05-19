@@ -1,0 +1,65 @@
+body{
+    background-image:url("https://www.teahub.io/photos/full/223-2235639_green-polygon-background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1{
+    text-align: center;
+}
+.navbar{
+    background-color: rgb(13, 78, 42);
+    list-style-type: none;
+    margin: 0;
+    opacity: 0.6;  
+}
+a{
+    color:black;
+}
+a:hover{
+    color:rgb(129, 118, 118)
+}
+a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: underline;
+  }
+.ver{
+    display: inline;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    padding: 2%;
+}
+.left{
+    display: flex;
+    align-items:left;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+      width: 70px;
+      height:70px;
+  }
+.centerAndSize{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.size{
+    margin-left: auto;
+    margin-right: auto;
+      width: 300px;
+      height:300px;
+}
+
+.video{
+    text-align: center;
+    
+    
+
+}

@@ -39,6 +39,7 @@ a:link {
     margin-left: auto;
     
     
+    
   }
   .size{
       font-size: 50px;
@@ -46,6 +47,7 @@ a:link {
   }
   ul{
       list-style-type: none;
+      color: whitesmoke;
   }
   img{
     margin-left: auto;
@@ -71,6 +73,7 @@ a:link {
     border-style: transparent;
     background-color: rgb(143, 216, 168);
     opacity: 0.5;
+    color:black
 }
 
 a:hover{
@@ -85,4 +88,5 @@ a:hover{
 .player{
     display: block;
     float: right;
+    
 }
