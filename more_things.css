@@ -59,7 +59,12 @@ img{
 
 .video{
     text-align: center;
-    
-    
-
+}
+.centerAndSize{
+    text-align: center;
+    font-size: xx-large;
+}
+.back{
+    background-color: rgb(143, 216, 168);
+    opacity: 0.7;
 }
